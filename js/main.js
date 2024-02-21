@@ -33,7 +33,7 @@ function playRound(playerSelection, computerSelection) {
 }
 
 
-//Playing the game "num" of times
+//The game play a "num" of times and show the victory
 function playGame(num) {
 
     for (let i=1; i <= num; i++) {
